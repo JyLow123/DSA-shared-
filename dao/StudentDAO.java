@@ -5,7 +5,7 @@ import entity.Student;
 
 /**
  *
- * @author LWY
+ * @author LWY, Low Jia Yu
  */
 public class StudentDAO {
   
